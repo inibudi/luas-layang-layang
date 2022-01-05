@@ -5,4 +5,5 @@ d2 = float(input("Masukan Nilai Diagonal ke-2: "))
 luas = d1 * d2 /2
 print(luas)
 
-#nilai berupa d1 dan d2
+#nilai berupa d1 dan d2 
+#create a new branch 
